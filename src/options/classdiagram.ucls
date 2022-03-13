@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="options.PublicTransport" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/PublicTransport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="114" x="285" y="1419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="options.Indicators" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Indicators.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="221" width="176" x="825" y="1158"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="options.Values" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Values.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="185" width="162" x="581" y="1158"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="options.CostEnviroment" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/CostEnviroment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="162" x="583" y="1419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="options.Testoption" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Testoption.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="161" x="165" y="177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="options.Cost" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Cost.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="176" x="785" y="1419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="options.Options" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Options.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="185" x="278" y="816"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="options.Walk" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Walk.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="89" x="156" y="1419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="options.Time" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Time.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="176" x="1217" y="1419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="options.Traveler" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Traveler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="599" width="594" x="505" y="177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="options.Comfortable" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Comfortable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="176" x="1001" y="1419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="options.Option" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Option.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="444" x="278" y="987"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="options.Car" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Car.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="89" x="27" y="1419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="options.Bike" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Bike.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="89" x="439" y="1419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="options.Mode" project="EthicalRegulation" 
+    file="/EthicalRegulation/src/options/Mode.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="194" x="217" y="1158"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="16">    
+    <bendpoint x="1052" y="816"/>    
+    <bendpoint x="1052" y="987"/>    
+    <bendpoint x="1052" y="1158"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="17" name="time"/>      
+      <multiplicity id="18" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="19">    
+    <bendpoint x="226" y="816"/>    
+    <bendpoint x="226" y="987"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="20" name="mode"/>      
+      <multiplicity id="21" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <bendpoint x="752" y="816"/>    
+    <bendpoint x="752" y="987"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="23" name="values"/>      
+      <multiplicity id="24" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <bendpoint x="1031" y="816"/>    
+    <bendpoint x="1031" y="987"/>    
+    <bendpoint x="1031" y="1158"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="26" name="comf"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="30">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="31" name="indicators"/>      
+      <multiplicity id="32" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="514" y="816"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="34" name="myoption"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="38">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="39" name="mode"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <bendpoint x="773" y="816"/>    
+    <bendpoint x="773" y="987"/>    
+    <bendpoint x="773" y="1158"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="42" name="costEnviroment"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="47">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="48" name="myOption"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <bendpoint x="815" y="816"/>    
+    <bendpoint x="815" y="987"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="51" name="indicators"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <bendpoint x="493" y="816"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="54" name="currentBestOption"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="57">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="58" name="choiceOption"/>      
+      <multiplicity id="59" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <bendpoint x="186" y="816"/>    
+    <bendpoint x="186" y="987"/>    
+    <bendpoint x="186" y="1158"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="61" name="pub"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="64" name="values"/>      
+      <multiplicity id="65" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <bendpoint x="165" y="816"/>    
+    <bendpoint x="165" y="987"/>    
+    <bendpoint x="165" y="1158"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="67" name="w"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <bendpoint x="247" y="816"/>    
+    <bendpoint x="247" y="987"/>    
+    <bendpoint x="441" y="1158"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="70" name="b"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <bendpoint x="144" y="816"/>    
+    <bendpoint x="144" y="987"/>    
+    <bendpoint x="144" y="1158"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="73" name="c"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <bendpoint x="794" y="816"/>    
+    <bendpoint x="794" y="987"/>    
+    <bendpoint x="794" y="1158"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="76" name="cost"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
